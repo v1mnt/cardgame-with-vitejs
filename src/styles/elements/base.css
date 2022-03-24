@@ -1,9 +1,10 @@
-body {
-    background-color: var(--color-pomb-and-power);
+html, body {
+    height: 100%;
+    font-size: 10px;
 }
 
-#root {
+body {
+    background-color: var(--color-pomb-and-power);
     display: flex;
     justify-content: center;
 }
-
